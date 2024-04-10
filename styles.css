@@ -1,0 +1,49 @@
+.navbar {
+    background-color: #333;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+  }
+  .logo img {
+    height: 50px; /* Adjust as needed */
+  }
+  .nav-links {
+    list-style-type: none;
+    display: flex;
+  }
+  .nav-links li {
+    margin-right: 20px;
+  }
+  .nav-links li a {
+    text-decoration: none;
+    color: white;
+  }
+  /* Footer styles */
+  .footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: auto;
+  }
+  .social-media svg {
+    width: 32px; /* Adjust as needed */
+    height: 32px; /* Adjust as needed */
+    margin: 0 10px; /* Increased margin for better spacing */
+    fill: white; /* Set the fill color to white */
+  }
+  #home{
+    height: 100vh;
+    width: 100%;    
+  }
+  #about{
+    height: 100vh;
+    width: 100%;   
+  }
+  #contact{
+    height: 100vh;
+    width: 100%;   
+  }
+  
